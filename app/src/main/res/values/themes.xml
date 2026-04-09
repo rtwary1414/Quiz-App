@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.QuizApp" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.QuizApp.Light" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_dark</item>
+    </style>
+
+    <style name="Theme.QuizApp.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_light</item>
+    </style>
+
+</resources>
